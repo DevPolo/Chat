@@ -79,5 +79,3 @@ class UserPanel extends Component {
 }
 
 export default UserPanel;
-
-document.get;
